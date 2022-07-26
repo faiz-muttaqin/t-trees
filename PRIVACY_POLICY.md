@@ -1,4 +1,5 @@
 T-trees: Privacy policy
+
 Welcome to the T-trees app for Android!
 
 This is an free Android app developed by Faiz Muttaqin. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
