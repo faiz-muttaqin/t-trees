@@ -12,6 +12,9 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 
 Yours sincerely,
+
 Faiz Muttaqin.
+
 Bogor, West Java, Indonesia.
+
 muttaqinfaiz@gmail.com
